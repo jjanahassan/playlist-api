@@ -167,6 +167,10 @@ I chose MongoDB for this project because:
    ```bash
    docker run -d -p 27017:27017 --name mongodb mongo:latest
    ```
+   Or using MongoDB Compass:
+   - Open MongoDB Compass
+   - Connect to: `mongodb://localhost:27017`
+   - Your database is now ready
 
 2. **Build the project:**
 
